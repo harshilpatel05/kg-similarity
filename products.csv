@@ -1,0 +1,13 @@
+id,category,brand,price,stock,tags
+amul_milk_1l,milk,Amul,0,false,lactose;veg
+mother_dairy_milk_1l,milk,MotherDairy,55,true,lactose;veg
+sofit_soy_milk,plant_milk,Sofit,90,true,lactose_free;veg;vegan
+nutriday_almond_milk,plant_milk,Nutriday,110,true,lactose_free;veg;vegan
+britannia_bread_loaf,bread,Britannia,30,true,veg;wholegrain
+modern_bread_classic,bread,Modern,28,true,veg
+amul_lassi_500ml,milk,Amul,35,true,veg;low_fat
+tropicana_orange_juice,juice,Tropicana,85,true,veg;sugar_free
+real_mixed_fruit_juice,juice,Real,75,false,veg
+heritage_curd_500g,milk,Heritage,45,true,veg
+pilgrim_soy_bread,bread,Pilgrim,40,true,veg;vegan;wholegrain
+raw_pressery_almond_milk,plant_milk,RawPressery,150,false,lactose_free;vegan
