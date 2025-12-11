@@ -64,14 +64,14 @@ To run the UI:
 
 ```
 pip install streamlit networkx matplotlib
-streamlit run app.py
+streamlit run graph.py
 ```
 
 Make sure `products.csv` is in the same folder.
 
 ## Files
 
-* `app.py` – entire program (graph builder, BFS, scoring, rules, Streamlit UI)
+* `graph.py` – entire program (graph builder, BFS, scoring, rules, Streamlit UI)
 * `products.csv` – sample dataset for the knowledge graph
 
 ## CSV format
